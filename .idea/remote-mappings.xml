@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="ruby@sshConfig://mvaladez@ec2-54-87-229-88.compute-1.amazonaws.com:22 key/usr/local/rvm/rubies/ruby-2.3.3/bin/ruby">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/mvaladez/deploy/passenger-ruby-rails-demo" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

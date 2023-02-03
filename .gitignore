@@ -6,6 +6,7 @@
 
 # Ignore Config Variables
 /config/config_variables.yml
+/secrets.yml
 
 # Ignore bundler config.
 /.bundle
